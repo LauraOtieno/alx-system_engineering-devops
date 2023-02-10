@@ -1,2 +1,2 @@
-git is fun
-git is exciting 
+#!/bin/bash
+whoami
